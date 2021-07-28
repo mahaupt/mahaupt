@@ -1,6 +1,6 @@
-[![Marcels GitHub stats](https://github-readme-stats.vercel.app/api?username=mahaupt)](https://github.com/anuraghazra/github-readme-stats)
+[![Marcels GitHub stats](https://github-readme-stats.vercel.app/api?username=mahaupt&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaupt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaupt&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mahaupt/mahaupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
