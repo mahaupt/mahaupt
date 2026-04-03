@@ -1,4 +1,4 @@
-[![Marcels GitHub stats](https://github-readme-stats.vercel.app/api?username=mahaupt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Marcels GitHub stats](./profile/stats.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaupt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
